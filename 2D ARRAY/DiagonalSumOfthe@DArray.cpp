@@ -3,6 +3,7 @@ using namespace std;
 int main(){
     //while calculating diagonal sum there is condition for the 
     //array should be of equal row and the equal coloumns
+    //my name is nishant sachin jagtap
     int arr[4][4]={{1,2,3,4},{4,5,6,7},{7,8,9,10},{10,11,12,13}};
     int sum=0;
 
