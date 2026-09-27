@@ -15,3 +15,5 @@ int main(){
     // remove and then we can use erase function to remove that string from the main string
     //erase function will take two parameters first is the index of the string which we want 
     // to remove and second is the length of the string which we want to remove
+    return 0;
+}
